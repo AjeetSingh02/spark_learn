@@ -1,1 +1,1 @@
-This repository was created while learning Flask.
+This repository was created while learning Spark.
